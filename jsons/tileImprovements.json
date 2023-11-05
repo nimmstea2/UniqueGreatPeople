@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Commercial Center",
+		"uniqueTo": "America",
+		"replaces": "Customs House",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": ["Can be built just outside your borders","Constructing it will take over the tiles around it and assign them to your closest city", "Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+]
