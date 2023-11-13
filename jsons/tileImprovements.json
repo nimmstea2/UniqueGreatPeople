@@ -4,6 +4,6 @@
 		"uniqueTo": "America",
 		"replaces": "Customs House",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Can be built just outside your borders","Constructing it will take over the tiles around it and assign them to your closest city", "Great Improvement", "Gives a defensive bonus of [25]%",  "[+1 Gold] for each adjacent [All]", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Can be built just outside your borders","Constructing it will take over the tiles around it and assign them to your closest city", "Great Improvement", "Gives a defensive bonus of [25]%","[+1 Gold] for each adjacent [Pasture]<after discovering [Economics]>","[+1 Gold] for each adjacent [Farm]<after discovering [Economics]>",  "[+1 Gold] for each adjacent [Pasture]", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 ]

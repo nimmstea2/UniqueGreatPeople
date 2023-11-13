@@ -5,7 +5,7 @@
 		"unitType": "Civilian",
 		"replaces": "Great Merchant",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-            "Can instantly construct a [Commercial Center] improvement <by consuming this unit>",
+            "Can instantly construct a [Frontier Fort] improvement <by consuming this unit>",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
